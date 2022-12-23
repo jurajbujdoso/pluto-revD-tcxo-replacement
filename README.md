@@ -33,7 +33,7 @@ Oscillator is located on back side of pluto device. The pcb contains white dot w
 Use the heat resistant tape and create a mesh next to the oscilator.  Then use desoldering station. I was not successfull with heater bellow 200"C and the success come with about 480"C. With tweezers I have removed old oscilator.
 ![mask](pred.jpg)
 
-After removing of old oscillator use desoldering tape and remove old tin. I did not done it in first try and parts where not align and I have to desolder new osicillator :(. Add some small amount of thin soldering paste afterwards and place the smd oscillator. 
+After removing of old oscillator use desoldering tape and remove old tin. I did not done it in first try and parts where not align and I have to desolder new osicillator :(. Add add some small amount of thin soldering paste on pcb afterwards. Place the smd oscillator on soldering paste and pcb. 
 ![removed](odobrane.jpg)
 
 Use the heat station to distribute heat on soldering paste. I used 350"C and air flow in range of 10%. I recommend to keep heat resistant tape on pcb during soldering. It prevents from demage of other parts and does not allow soldering paste to move to unwanted direction.
