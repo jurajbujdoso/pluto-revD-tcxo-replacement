@@ -41,7 +41,7 @@ Use the heat station to distribute heat on soldering paste. I used 350"C and air
 
 It is huge help to have electronic microsope or magnify glasses during procedure. I just use black pen marker to create more visible dot on smd oscillator for better aligment.
 
-# Resultes
+# Result
 In the first test device seems to work, but it require some experience to provide feedback. Precision is now 100x better.
 With 20ppm and 1Ghz the freq. difference could be aroung 20Khz.
 
