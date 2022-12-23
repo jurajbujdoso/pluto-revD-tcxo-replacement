@@ -33,10 +33,16 @@ Oscillator is located on back side of pluto device. The pcb contains white dot w
 Use the heat resistant tape and create a mesh next to the oscilator.  Then use desoldering station. I was not successfull with heater bellow 200"C and the success come with about 480"C. With tweezers I have removed old oscilator.
 ![mask](pred.jpg)
 
-After removing of old oscillator use desoldering tape and remove old tin. I did not done it in first try and parts where not align and I have to desolder new osicillator :(. Add add some small amount of thin soldering paste on pcb afterwards. Place the smd oscillator on soldering paste and pcb. 
+After removing of old oscillator use desoldering tape with soldering tips and remove old tin from pcb. I did not done it in first try and parts where not align and I have to desolder new osicillator :(. Add add some small amount of thin soldering paste on pcb afterwards. Place the smd oscillator on soldering paste and pcb. 
 ![removed](odobrane.jpg)
 
 Use the heat station to distribute heat on soldering paste. I used 350"C and air flow in range of 10%. I recommend to keep heat resistant tape on pcb during soldering. It prevents from demage of other parts and does not allow soldering paste to move to unwanted direction.
 ![soldered](po-vymene.jpg)
 
 It is huge help to have electronic microsope or magnify glasses during procedure. I just use black pen marker to create more visible dot on smd oscillator for better aligment.
+
+# Resultes
+In the first test device seems to work, but it require some experience to provide feedback. Precision is now 100x better.
+With 20ppm and 1Ghz the freq. difference could be aroung 20Khz.
+
+Base on japan article former osicillator was reponsible for switch to provide external clock signal. With the replacement the external clock is no available any longer => No Leo Bodnar or similar solution.
