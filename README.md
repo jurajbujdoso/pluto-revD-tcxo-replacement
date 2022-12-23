@@ -22,6 +22,9 @@ https://www.aliexpress.com/af/soldering-station-smd.html?d=y&origin=n&SearchText
 soldering paste, I prefer one wit Au
 https://www.aliexpress.com/item/1005004654324980.html?spm=a2g0o.order_list.order_list_main.5.22fe1802wc04Tj
 
+Oscillator  TG2520SMN 40.0000M-ECGNNM3 (EPSON)
+
+
 # Procedure
 
 Oscillator is located on back side of pluto device. The pcb contains white dot which is important for oscillator position. The same dot is also on oscillator part.
@@ -33,6 +36,7 @@ Use the heat resistant tape and create a mesh next to the oscilator.  Then use d
 After removing of old oscillator use desoldering tape and remove old tin. I did not done it in first try and parts where not align and I have to desolder new osicillator :(. Add some small amount of thin soldering paste afterwards and place the smd oscillator. 
 ![removed](odobrane.jpg)
 
-Use the heat station to distribute heat on soldering paste. I used 350"C and air flow in range of 10%.
+Use the heat station to distribute heat on soldering paste. I used 350"C and air flow in range of 10%. I recommend to keep heat resistant tape on pcb during soldering. It prevents from demage of other parts and does not allow soldering paste to move to unwanted direction.
 ![soldered](po-vymene.jpg)
 
+It is huge help to have electronic microsope or magnify glasses during procedure.
