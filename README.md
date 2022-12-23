@@ -23,3 +23,5 @@ soldering paste, I prefer one wit Au
 https://www.aliexpress.com/item/1005004654324980.html?spm=a2g0o.order_list.order_list_main.5.22fe1802wc04Tj
 
 ![Tux, the Linux mascot](pred.jpg)
+![Tux, the Linux mascot](odobrane.jpg)
+![Tux, the Linux mascot](po-vymene.jpg)
