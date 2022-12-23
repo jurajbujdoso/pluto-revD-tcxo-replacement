@@ -38,7 +38,7 @@ Use the heat resistant tape and create a mesh next to the oscilator.  Then use d
 After removing of old oscillator use desoldering tape with soldering tips and remove old tin from pcb. I did not done it in first try and parts where not align and I have to desolder new osicillator :(. Add add some small amount of thin soldering paste on pcb afterwards. Place the smd oscillator on soldering paste and pcb. 
 ![removed](odobrane.jpg)
 
-Use the heat station to distribute heat on soldering paste. I used 350"C and air flow in range of 10%. I recommend to keep heat resistant tape on pcb during soldering. It prevents from demage of other parts and does not allow soldering paste to move to unwanted direction.
+Use the heat station to distribute heat on soldering paste. I used 350"C and air flow in range of 10%. I recommend to keep heat resistant tape on pcb during soldering. It prevents from damage of other parts and does not allow soldering paste to move to unwanted direction.
 ![soldered](po-vymene.jpg)
 
 It is huge help to have electronic microsope or magnify glasses during procedure. I just use black pen marker to create more visible dot on smd oscillator for better aligment.
