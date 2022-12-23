@@ -26,6 +26,7 @@ https://www.aliexpress.com/item/1005004654324980.html?spm=a2g0o.order_list.order
 
 Use the heat resistant tape and create a mesh next to the oscilator. Oscilator is located on back side of pluto device.
 
-![Tux, the Linux mascot](pred.jpg)
-![Tux, the Linux mascot](odobrane.jpg)
-![Tux, the Linux mascot](po-vymene.jpg)
+![BEFORE](1671775967325.jpg)
+![mask](pred.jpg)
+![removed](odobrane.jpg)
+![soldered](po-vymene.jpg)
