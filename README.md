@@ -51,8 +51,8 @@ Base on japan article former osicillator was reponsible for switch to provide ex
 
 # Tunning
 
-After running some hours I identify there is a little skip in precision. 
-In my case correction was about 67 Hz.
+After running some hours I identify there is a little jump in precision. 
+In my case correction was about 67 Hz in formar chip which have no relation to current.
 
 ```
 # iio_attr -C
