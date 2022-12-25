@@ -21,7 +21,7 @@ https://www.aliexpress.com/item/1005004223074659.html?spm=a2g0o.order_list.order
 Soldering station with heater (400-500"C)
 https://www.aliexpress.com/af/soldering-station-smd.html?d=y&origin=n&SearchText=soldering+station+smd&catId=0&spm=a2g0o.detail.1000002.0&initiative_id=SB_20221222215521
 
-soldering paste, I prefer one wit Au
+soldering paste, I prefer one wit Ag. 
 https://www.aliexpress.com/item/1005004654324980.html?spm=a2g0o.order_list.order_list_main.5.22fe1802wc04Tj
 
 Oscillator  TG2520SMN 40.0000M-ECGNNM3 (EPSON)
@@ -47,4 +47,4 @@ It is huge help to have electronic microsope or magnify glasses during procedure
 In the first test device seems to work, but it require some experience to provide feedback. Precision is now 100x better.
 With 20ppm and 1Ghz the freq. difference could be aroung 20Khz.
 
-Base on japan article former osicillator was reponsible for switch to provide external clock signal. With the replacement the external clock is no available any longer => No Leo Bodnar or similar solution.
+Base on japan article former osicillator was reponsible for switch to provide external clock signal. With the replacement the external clock is not available any longer => No Leo Bodnar or similar solution.
