@@ -45,6 +45,34 @@ It is huge help to have electronic microsope or magnify glasses during procedure
 
 # Result
 In the first test device seems to work, but it require some experience to provide feedback. Precision is now 100x better.
-With 20ppm and 1Ghz the freq. difference could be aroung 20Khz.
+With 20ppm and 1Ghz the freq. difference could be aroung 20Khz. Current chip is in range 0.2ppm, but probably this will change each year a little.
 
 Base on japan article former osicillator was reponsible for switch to provide external clock signal. With the replacement the external clock is not available any longer => No Leo Bodnar or similar solution.
+
+# Tunning
+
+After running some hours I identify there is a little skip in precision. 
+In my case correction was about 67 Hz.
+
+# iio_attr -C
+IIO context with 8 attributes:
+hw_model: Analog Devices PlutoSDR Rev.C (XXXXX-AD9364)
+hw_model_variant: 1
+hw_serial: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+fw_version: v0.35
+ad9361-phy,xo_correction: 40000067
+ad9361-phy,model: ad9364
+local,kernel: 5.10.0-98231-xxxxxxxxxxxxx
+uri: local:
+
+I have correct it as follows
+```
+# fw_printenv | grep correction
+# no output
+
+fw_setenv xo_correction 40000000
+# fw_printenv | grep correction
+xo_correction=40000000
+```
+
+With the new corrected frequency the device accurancy was almost perfect on single side band test.
