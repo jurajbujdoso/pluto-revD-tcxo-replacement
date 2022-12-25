@@ -48,6 +48,8 @@ In the first test device seems to work, but it require some experience to provid
 With 20ppm and 1Ghz the freq. difference could be aroung 20Khz. Current chip is in range 0.2ppm, but probably this will change each year a little.
 
 ```
+Frequency_difference =  ( Wished_Frequency_in_Hz  * PPM_peak_variation_+- ) / 10x6
+
 Band 100 Mhz
 20ppm =>    2.0 Hz
 0.2 ppm =>  0.18 Hz
