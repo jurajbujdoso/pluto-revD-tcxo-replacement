@@ -52,11 +52,11 @@ Frequency_difference =  ( Wished_Frequency_in_Hz  * PPM_peak_variation_+- ) / 10
 
 Band 100 Mhz
 20ppm =>    2.0 Hz
-0.2 ppm =>  0.18 Hz
+0.2 ppm =>  0.02 Hz
 
 Band 900 Mhz
 20ppm =>   18.0 Hz
-0.2 ppm =>  0.02 Hz
+0.2 ppm =>  0.18 Hz
 
 
  Band 1GHZ
