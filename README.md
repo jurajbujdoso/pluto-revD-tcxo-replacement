@@ -47,6 +47,31 @@ It is huge help to have electronic microsope or magnify glasses during procedure
 In the first test device seems to work, but it require some experience to provide feedback. Precision is now 100x better.
 With 20ppm and 1Ghz the freq. difference could be aroung 20Khz. Current chip is in range 0.2ppm, but probably this will change each year a little.
 
+```
+Band 100 Mhz
+20ppm =>    2.0 Hz
+0.2 ppm =>  0.18 Hz
+
+Band 900 Mhz
+20ppm =>   18.0 Hz
+0.2 ppm =>  0.02 Hz
+
+
+ Band 1GHZ
+20ppm =>    20.0 Hz
+0.2 ppm =>   0.2 Hz
+
+Band  2GHZ
+20ppm =>    40.0 Hz
+0.2 ppm =>   0.4 Hz
+
+Band  3GHZ
+20ppm =>    60.0 Hz
+0.2 ppm =>   0.6 Hz
+```
+
+
+
 Base on japan article former osicillator was reponsible for switch to provide external clock signal. With the replacement the external clock is not available any longer => No Leo Bodnar or similar solution.
 
 # Tunning
