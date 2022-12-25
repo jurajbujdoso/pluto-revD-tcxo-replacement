@@ -76,6 +76,9 @@ I have correct it as follows
 fw_setenv xo_correction 40000000
 # fw_printenv | grep correction
 xo_correction=40000000
+
+reboot
+
 ```
 
 With the new corrected frequency the device accurancy was almost perfect on single side band test.
