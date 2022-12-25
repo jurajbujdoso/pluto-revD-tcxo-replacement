@@ -106,4 +106,4 @@ reboot
 
 ```
 
-With the new corrected frequency the device accurancy was almost perfect on single side band test.
+With the new corrected frequency the device accurancy was almost perfect in single side band test.
