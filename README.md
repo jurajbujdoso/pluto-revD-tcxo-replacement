@@ -54,6 +54,7 @@ Base on japan article former osicillator was reponsible for switch to provide ex
 After running some hours I identify there is a little skip in precision. 
 In my case correction was about 67 Hz.
 
+```
 # iio_attr -C
 IIO context with 8 attributes:
 hw_model: Analog Devices PlutoSDR Rev.C (XXXXX-AD9364)
@@ -63,7 +64,9 @@ fw_version: v0.35
 ad9361-phy,xo_correction: 40000067
 ad9361-phy,model: ad9364
 local,kernel: 5.10.0-98231-xxxxxxxxxxxxx
-uri: local:
+```
+
+
 
 I have correct it as follows
 ```
